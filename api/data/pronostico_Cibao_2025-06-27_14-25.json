@@ -1,0 +1,350 @@
+{
+    "general": {
+        "region-select": "Cibao",
+        "fecha": "2025-06-27",
+        "hora": "14:25",
+        "pronosticador": "alejandro s",
+        "condiciones": "aldaldasdad",
+        "especiales": "adasda",
+        "maritimas": "adad"
+    },
+    "table24": [
+        {
+            "province": "Santiago",
+            "cells": [
+                [
+                    "Cielo Despejado"
+                ],
+                [
+                    "Tormentas Eléctricas"
+                ],
+                [
+                    "Soleado"
+                ],
+                [
+                    "25",
+                    "23"
+                ]
+            ]
+        },
+        {
+            "province": "La Vega",
+            "cells": [
+                [
+                    "Nubes Dispersas"
+                ],
+                [
+                    "Bruma"
+                ],
+                [
+                    "Tormentas Eléctricas"
+                ],
+                [
+                    "26",
+                    "23"
+                ]
+            ]
+        },
+        {
+            "province": "Puerto Plata",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Espaillat",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Monseñor Nouel",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Valverde",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Montecristi",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Santiago Rodriguez",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Dajabón",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        }
+    ],
+    "table4872": [
+        {
+            "province": "Santiago",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "La Vega",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Puerto Plata",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Espaillat",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Monseñor Nouel",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Valverde",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Montecristi",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Santiago Rodriguez",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Dajabón",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        }
+    ],
+    "timestamp": "2025-06-27 20:26:14",
+    "ip": "::1"
+}

@@ -1,0 +1,350 @@
+{
+    "general": {
+        "region-select": "Cibao",
+        "fecha": "2025-06-20",
+        "hora": "23:16",
+        "pronosticador": "alejandro s",
+        "condiciones": "<p><strong><span style=\"background-color: rgb(0, 0, 0);\">Durante las horas matutinas, se espera la ocurrencia de aguaceros locales con tormentas el&eacute;ctricas y r&aacute;fagas de viento, sobre Santo Domingo, Monte Plata, Saman&aacute;, Mar&iacute;a Trinidad S&aacute;nchez, San Crist&oacute;bal y S&aacute;nchez Ram&iacute;rez. Para la tarde, dicha actividad se replicar&aacute; en Monse&ntilde;or Nouel, La Vega, Santiago, Santiago Rodr&iacute;guez, San Juan y El&iacute;as Pi&ntilde;a, debido a la incidencia de la vaguada m&aacute;s el alto contenido de humedad. En horas de la noche, esperamos algunos chubascos locales con tronadas aisladas, sobre La Altagracia, El Seibo, La Romana, entre otras provincias la parte oriental. Por otro lado, tambi&eacute;n incide sobre el territorio nacional una ligera capa de polvo sahariano.<\/span><\/strong><\/p>",
+        "especiales": "<p>Durante las horas matutinas, se espera la ocurrencia de aguaceros locales con tormentas el&eacute;ctricas y r&aacute;fagas de viento, sobre Santo Domingo, Monte Plata, Saman&aacute;, Mar&iacute;a Trinidad S&aacute;nchez, San Crist&oacute;bal y S&aacute;nchez Ram&iacute;rez. Para la tarde, dicha actividad se replicar&aacute; en Monse&ntilde;or Nouel, La Vega, Santiago, Santiago Rodr&iacute;guez, San Juan y El&iacute;as Pi&ntilde;a, debido a la incidencia de la vaguada m&aacute;s el alto contenido de humedad. En horas de la noche, esperamos algunos chubascos locales con tronadas aisladas, sobre La Altagracia, El Seibo, La Romana, entre otras provincias la parte oriental. Por otro lado, tambi&eacute;n incide sobre el territorio nacional una ligera capa de polvo sahariano.<\/p>",
+        "maritimas": "<p>El jueves, suficiente humedad, los efectos locales y una vaguada en niveles altos de la troposfera volver&aacute;n a crear condiciones propicias para la ocurrencia de aguaceros con tormentas el&eacute;ctricas y r&aacute;fagas de viento hacia localidades del sureste, la Cordillera Central y la zona fronteriza, especialmente en la tarde, sobre localidades de Monte Plata, San Crist&oacute;bal, Monse&ntilde;or Nouel, San Juan, El&iacute;as Pi&ntilde;a, Santiago Rodr&iacute;guez y la parte norte de Azua hasta primeras horas de la noche. Se prev&eacute; que la ligera capa de polvo sahariano seguir&aacute; incidiendo sobre nuestro territorio.<\/p>"
+    },
+    "table24": [
+        {
+            "province": "Santiago",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "Nubes Dispersas"
+                ],
+                [
+                    "Lluvias"
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "La Vega",
+            "cells": [
+                [
+                    "Cielo Despejado"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "Nublado"
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Puerto Plata",
+            "cells": [
+                [
+                    "Nubes Dispersas"
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "20"
+                ]
+            ]
+        },
+        {
+            "province": "Espaillat",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Monseñor Nouel",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "Bruma"
+                ],
+                [
+                    "Nublado"
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Valverde",
+            "cells": [
+                [
+                    "Nublado"
+                ],
+                [
+                    "Tormentas Eléctricas"
+                ],
+                [
+                    "Nublado"
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Montecristi",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "Cielo Despejado"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Santiago Rodriguez",
+            "cells": [
+                [
+                    "Lluvias"
+                ],
+                [
+                    "Granizado"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "19"
+                ]
+            ]
+        },
+        {
+            "province": "Dajabón",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "Tormentas Eléctricas"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "29",
+                    "24"
+                ]
+            ]
+        }
+    ],
+    "table4872": [
+        {
+            "province": "Santiago",
+            "cells": [
+                [
+                    "Nublado"
+                ],
+                [
+                    "25",
+                    "21"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "La Vega",
+            "cells": [
+                [
+                    "Nublado"
+                ],
+                [
+                    "25",
+                    "21"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Puerto Plata",
+            "cells": [
+                [
+                    "Nublado"
+                ],
+                [
+                    "25",
+                    "21"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Espaillat",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "24",
+                    "24"
+                ],
+                [
+                    "Tormentas Eléctricas"
+                ],
+                [
+                    "24",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Monseñor Nouel",
+            "cells": [
+                [
+                    "Aguaceros"
+                ],
+                [
+                    "23",
+                    "21"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Valverde",
+            "cells": [
+                [
+                    "Nubes Dispersas"
+                ],
+                [
+                    "23",
+                    "21"
+                ],
+                [
+                    "Nubes Dispersas"
+                ],
+                [
+                    "23",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Montecristi",
+            "cells": [
+                [
+                    "Lluvias"
+                ],
+                [
+                    "24",
+                    "22"
+                ],
+                [
+                    "Lluvias"
+                ],
+                [
+                    "25",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "Santiago Rodriguez",
+            "cells": [
+                [
+                    "Lluvias"
+                ],
+                [
+                    "23",
+                    "21"
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Dajabón",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "25",
+                    "23"
+                ],
+                [
+                    "Tormentas Eléctricas"
+                ],
+                [
+                    "26",
+                    "23"
+                ]
+            ]
+        }
+    ],
+    "timestamp": "2025-07-14 12:07:31",
+    "ip": "::1"
+}

@@ -1,0 +1,313 @@
+{
+    "general": {
+        "region-select": "Suroeste",
+        "fecha": "2025-06-27",
+        "hora": "14:25",
+        "pronosticador": "alejandro s",
+        "condiciones": "aldaldasdad",
+        "especiales": "adasda",
+        "maritimas": "adad"
+    },
+    "table24": [
+        {
+            "province": "Barahona",
+            "cells": [
+                [
+                    "Parcialmente Nublado"
+                ],
+                [
+                    "Granizado"
+                ],
+                [
+                    "Parcialmente Nublado"
+                ],
+                [
+                    "26",
+                    "23"
+                ]
+            ]
+        },
+        {
+            "province": "San Juan",
+            "cells": [
+                [
+                    "Nublado"
+                ],
+                [
+                    "Ráfagas de Viento"
+                ],
+                [
+                    "Ráfagas de Viento"
+                ],
+                [
+                    "28",
+                    "23"
+                ]
+            ]
+        },
+        {
+            "province": "Azua",
+            "cells": [
+                [
+                    "Nubes Dispersas"
+                ],
+                [
+                    "Nubes Dispersas"
+                ],
+                [
+                    "Ráfagas de Viento"
+                ],
+                [
+                    "28",
+                    "26"
+                ]
+            ]
+        },
+        {
+            "province": "Pedernales",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Peravia",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Bahoruco",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Independencia",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Elías Piña",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        }
+    ],
+    "table4872": [
+        {
+            "province": "Barahona",
+            "cells": [
+                [
+                    "Lluvias"
+                ],
+                [
+                    "26",
+                    ""
+                ],
+                [
+                    "Nubes Dispersas"
+                ],
+                [
+                    "23",
+                    "21"
+                ]
+            ]
+        },
+        {
+            "province": "San Juan",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Azua",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Pedernales",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Peravia",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Bahoruco",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Independencia",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "province": "Elías Piña",
+            "cells": [
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        }
+    ],
+    "timestamp": "2025-06-27 20:48:15",
+    "ip": "::1"
+}

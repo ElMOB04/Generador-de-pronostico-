@@ -1,0 +1,79 @@
+{
+    "general": {
+        "region-select": "Cibao",
+        "fecha": "2024-01-15",
+        "hora": "14:30",
+        "pronosticador": "Juan Pérez",
+        "condiciones": "Cielo parcialmente nublado con posibilidad de lluvias ligeras",
+        "especiales": "Vientos moderados del este",
+        "maritimas": "Oleaje moderado, visibilidad buena"
+    },
+    "table24": [
+        {
+            "province": "Santiago",
+            "cells": [
+                [
+                    "Soleado"
+                ],
+                [
+                    "Parcialmente Nublado"
+                ],
+                [
+                    "Nublado"
+                ],
+                [
+                    "25",
+                    "18"
+                ]
+            ]
+        },
+        {
+            "province": "La Vega",
+            "cells": [
+                [
+                    "Nublado"
+                ],
+                [
+                    "Aguaceros"
+                ],
+                [
+                    "Lluvias"
+                ],
+                [
+                    "23",
+                    "16"
+                ]
+            ]
+        }
+    ],
+    "table4872": [
+        {
+            "province": "Santiago",
+            "cells": [
+                [
+                    "Soleado",
+                    "26"
+                ],
+                [
+                    "Parcialmente Nublado",
+                    "24"
+                ]
+            ]
+        },
+        {
+            "province": "La Vega",
+            "cells": [
+                [
+                    "Nublado",
+                    "22"
+                ],
+                [
+                    "Aguaceros",
+                    "20"
+                ]
+            ]
+        }
+    ],
+    "timestamp": "2025-06-30 19:56:43",
+    "ip": "::1"
+}
